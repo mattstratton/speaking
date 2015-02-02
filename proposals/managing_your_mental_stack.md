@@ -1,4 +1,4 @@
-###Managing Your Mental Stack###
+# Managing Your Mental Stack
 
 It’s information overload these days – how can a technology professional manage to keep up with everything that is new and exciting in the world of DevOps? What are the best methods for absorbing content and developing skills? Just how useful are podcasts, anyway?
 
