@@ -1,4 +1,4 @@
-Making Infrastructure S'mores with Chef
+# Making Infrastructure S'mores with Chef
 
 When definining the configuration of a system, different domain experts in your organization can bring their own skills and knowledge to mix together to create a delightful recipe for success. In this talk, I will demonstrate how to mix together the graham cracker of sysadmin, the chocolate of a app dev, and the marshmallow of security to create a delicious treat that meets all the requirements for each discipline.
 
