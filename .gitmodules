@@ -1,6 +1,3 @@
 [submodule "presos/managing-your-mental-stack"]
 	path = presos/managing-your-mental-stack
     url = https://github.com/mattstratton/managing-your-mental-stack.git
-[submodule "infrastructure-smores"]
-	path = infrastructure-smores
-	url = https://github.com/mattstratton/infrastructure-smores.git
