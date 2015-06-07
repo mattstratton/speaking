@@ -4,3 +4,6 @@
 [submodule "presos/infrastructure-smores"]
 	path = presos/infrastructure-smores
 	url = https://github.com/mattstratton/infrastructure-smores.git
+[submodule "presos/how-to-train-your-dragon-talks"]
+	path = presos/how-to-train-your-dragon-talks
+	url = git@github.com:mattstratton/how-to-train-your-dragon-talks.git
