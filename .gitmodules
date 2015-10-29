@@ -7,3 +7,6 @@
 [submodule "presos/how-to-train-your-dragon-talks"]
 	path = presos/how-to-train-your-dragon-talks
 	url = git@github.com:mattstratton/how-to-train-your-dragon-talks.git
+[submodule "presos/five-love-languages-of-devops"]
+	path = presos/five-love-languages-of-devops
+	url = git@github.com:mattstratton/five-love-languages-of-devops.git
