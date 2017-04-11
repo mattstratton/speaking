@@ -10,3 +10,6 @@
 [submodule "presos/five-love-languages-of-devops"]
 	path = presos/five-love-languages-of-devops
 	url = git@github.com:mattstratton/five-love-languages-of-devops.git
+[submodule "presos/shifting=left-securely-dod-denver"]
+	path = presos/shifting=left-securely-dod-denver
+	url = git@github.com:mattstratton/shifting-left-securely-dod-denver.git
