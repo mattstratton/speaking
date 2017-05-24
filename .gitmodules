@@ -13,3 +13,6 @@
 [submodule "presos/shifting=left-securely-dod-denver"]
 	path = presos/shifting=left-securely-dod-denver
 	url = git@github.com:mattstratton/shifting-left-securely-dod-denver.git
+[submodule "presos/handwavers-guide"]
+	path = presos/handwavers-guide
+	url = git@github.com:mattstratton/handwavers-guide.git
