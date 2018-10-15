@@ -1,7 +1,7 @@
 # Bio
 
-Matt Stratton is a DevOps Evangelist at PagerDuty, where he help dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry thought leaders in the broader DevOps community, and his license plate actually says “DevOps”.  
+Matty Stratton is a HumanOps Advocate at PagerDuty, where he helps dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry thought leaders in the broader DevOps community, and back when he drove, his license plate actually said “DevOps”.
 
-Matt has over 20 years experience in IT operations, ranging from large financial institutions such as JPMorganChase and internet firms, including Apartments.com. He has given presentations at ITSM focused events, ChefConf, DevOpsDays, Interop, PINK, and various local groups within the Chicagoland area. He is the founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com) podcast.
- 
-He lives in the Chicagoland area with his wife Andrea, their cat Fancy, and his three kids, Henry, Joey, and Sophia. He also has an unhealthy obsession with _Doctor Who_, _Firefly_, and _Game of Thrones_. And whiskey.
+Matty has over 20 years experience in IT operations, ranging from large financial institutions such as JPMorganChase and internet firms, including Apartments.com. He is a sought-after speaker internationally, presenting at Agile, DevOps, and ITSM focused events, including ChefConf, DevOpsDays, Interop, PINK, and others worldwide. Matty is the founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com) podcast, as well as a global organizer of the [DevOpsDays](https://www.devopsdays.org) set of conferences.
+
+He lives in San Francisco and has three awesome kids - Henry, Joey, and Sophia. He also has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey.
